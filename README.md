@@ -23,3 +23,7 @@ To run the backend (server):
 ![checkout](https://user-images.githubusercontent.com/11652333/168339531-44b8f5be-dd29-4faa-aa39-7e0bde7e408d.png)
 ![checkout-form](https://user-images.githubusercontent.com/11652333/168339533-2b44388b-f56d-4dbe-a7b0-7d8e7b8365f8.png)
 ![Screen Shot 2022-05-13 at 1 53 01 PM](https://user-images.githubusercontent.com/11652333/168340248-6a10e297-bb94-44f0-a865-c3ad301f2faf.png)
+
+## **Database**
+
+MongoDB: https://www.mongodb.com/
