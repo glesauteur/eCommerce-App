@@ -14,7 +14,7 @@ To run the backend (server):
 - `yarn install`
 - `yarn start`
 
-## Visuals of the eComm App
+## Screenshots & Recording
 ![homepage](https://user-images.githubusercontent.com/11652333/168339497-dadf85e9-1832-443d-b6d1-8d37dd26e1d6.png)
 ![search-bar](https://user-images.githubusercontent.com/11652333/168339500-fd58b983-f676-415b-bd81-2e99b472cf54.png)
 ![catalog](https://user-images.githubusercontent.com/11652333/168339524-d22dad0a-86f4-446c-80a6-1c1ac85c51b2.png)
